@@ -1,0 +1,14 @@
+{
+  "event": "webhook.test",
+  "dateKey": "2026-10-08",
+  "sentAt": "2026-10-08T13:00:00.000Z",
+  "data": {
+    "message": "Illustrative delivery test only.",
+    "currentEvents": [
+      "research_watchlist.created",
+      "morning_scan.created",
+      "confirmed_buys.created",
+      "quick_exit_results.created"
+    ]
+  }
+}

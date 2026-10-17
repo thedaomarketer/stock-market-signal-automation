@@ -1,0 +1,11 @@
+{
+  "event": "confirmed_buys.created",
+  "dateKey": "2026-10-08",
+  "sentAt": "2026-10-08T13:34:10.000Z",
+  "data": {
+    "scanId": "2026-10-08_morning",
+    "confirmationComplete": true,
+    "confirmedBuys": [],
+    "message": "Completed opening review: no official confirmations."
+  }
+}
