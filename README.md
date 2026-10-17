@@ -108,6 +108,7 @@ These are reference stages, not delivery guarantees. Use the actual publication 
 
 | Example | What it does |
 |---|---|
+| [**Signal Desk platform**](platform/README.md) | Full private dashboard on Vercel + Postgres: signed webhook receiver, daily board, history, journal, risk sizing |
 | [Node receiver](examples/node-webhook-receiver/README.md) | Receive and verify signed deliveries |
 | [Python receiver](examples/python-webhook-receiver/README.md) | Flask receiver example |
 | [Discord formatter](examples/discord-formatter/README.md) | Format event rows as alerts |

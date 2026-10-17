@@ -1,0 +1,30 @@
+{
+  "event": "morning_scan.created",
+  "dateKey": "2026-10-08",
+  "sentAt": "2026-10-08T13:28:25.000Z",
+  "data": {
+    "scanId": "2026-10-08_morning",
+    "purpose": "Preparation only; not official signals.",
+    "scan": {
+      "dateKey": "2026-10-08",
+      "mode": "morning",
+      "buySignals": [
+        {
+          "ticker": "DEMOA",
+          "name": "Illustrative candidate A",
+          "entry": 20,
+          "stop": 19.5,
+          "target": 20.5
+        },
+        {
+          "ticker": "DEMOB",
+          "name": "Illustrative candidate B",
+          "entry": 40,
+          "stop": 39,
+          "target": 41
+        }
+      ],
+      "watchSignals": []
+    }
+  }
+}
